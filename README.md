@@ -1,2 +1,2 @@
 # Remove-Background-Layer-Photoshop
-Convert smart object with locked "Background" layer into editable smart objects, without thi locked layer.
+Convert smart object with locked "Background" layer into editable smart objects, without locked layer.
